@@ -1,0 +1,22 @@
+# virtual environments
+venv/
+.venv/
+env/
+
+# Python / Jupyter caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets
+.env
+
+# generated or downloaded data that should not be uploaded
+chroma_db/
+sms.tsv
+SMSSpamCollection
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
