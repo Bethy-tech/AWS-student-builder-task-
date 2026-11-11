@@ -1,0 +1,3 @@
+Classify this IT support ticket from a university student and answer in JSON with the keys category, priority, summary and needs_human.
+
+Ticket: {ticket}
