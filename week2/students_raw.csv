@@ -1,0 +1,65 @@
+student_id,name,department,age,attendance_percent,math_score,programming_score,english_score,enrolled_on
+S007,Sara Assefa,Electrical Engineering,25,94.5,62,69,80,2023/10/05
+S056,,SOFTWARE ENG.,21,84.5%,60,57,86,2023-10-15
+S051,Tigist Tadesse,Electrical Engineering,,91.9,76,46,73,2023-11-07
+S005,MAHLET HAILU,computer science,24,87.4,71,69,45,2023-10-22
+S049,bethel girma,Computer Science,23,75.6,70,57,80,2023-09-01
+S024,Samuel Worku,Software Engineering ,20,,49,70,62,2023-11-10
+S032,Eyob Bekele,Software Engineering,23,78.2%,,60,68,2023-11-23
+S036,Kaleb Alemu,software engineering,19,93.7,70,79,79,2023-11-15
+S026,Robel Alemu,Information Systems,22,83.6%,55,73,64,2023-11-24
+S014,Dawit Worku,Information Systems,24,80.8%,65,78,77,2023-10-25
+S029,bethel girma ,CS,25,81.6,63,49,62,2023-11-13
+S013,saron tesfaye ,Computer Science,24,105%,55,58,77,2023-09-14
+S059,Betty Girma,EE,20,93.0,62,75,86,2023-11-03
+S047,Sara Assefa,EE,22,85.4,53,50,81,2023-09-06
+S005,MAHLET HAILU,computer science,24,87.4,71,69,45,2023-10-22
+S038,Henok Mulugeta,Information Systems,18,92.9%,96,100,59,2023-10-10
+S010,Nahom Kebede,Information Systems,20,91.9,55,N/A,76,2023-09-05
+S019,Betty Girma,Electrical Engineering,21,82.3,55,62,92,2023-11-19
+S023,Liya Tesfaye,EE,21,83.9,42,42,74,2023-11-25
+S054,Dawit Worku,information systems,23,99.1,87,94,78,2023-10-11
+S053,SARON TESFAYE, Computer Science,23,85.0,88,72,66,2023-11-04
+S048,Yonas Mulugeta,Software Engineering,24,85.4,67,68,950,2023-11-25
+S035,Selam Hailu,EE,23,91.1,76,68,57,2023-09-03
+S017,rahel assefa,Computer Science,19,90.9,70,79,67,2023-09-13
+S016,Kaleb Alemu,Software Engineering,19,83.9,999,54,70,2023-11-12
+S037,RAHEL ASSEFA,Computer Science,,80.9,86,61,78,2023-11-11
+S012,Eyob Bekele,SOFTWARE ENG.,23,80.8,68,53,64,2023-09-11
+S031,Tigist Tadesse,Electrical Engineering,21,79.3,43,61,69,2023-10-12
+S008,Yonas Mulugeta,Software Engineering ,19,84.0%,69,69,58,2023-11-18
+S028,Yonas Mulugeta,Software Engineering,150,85.1,59,60,64,2023-09-17
+S040,Abebe Kebede,Software Engineering,24,87.3,70,67,71,2023-10-06
+S052,Eyob Bekele,Software Engineering,22,85.7,54,59,68,2023-09-21
+S046,Robel Alemu,Information Systems,21,65.2,50,28,36,2023-11-13
+S034,Dawit Worku,Information Systems,22,80.4,74,-1,68,2023-09-07
+S006,Robel Alemu,information systems,25,,69,52,65,2023-09-06
+S041,  Hana Tadesse  ,Comp Sci,22,83.5,55,43,75,
+S002,Meron Bekele,Information Systems,24,85.5%,86,72,64,2023-11-09
+S050,Nahom Kebede,Information Systems,21,83.8%,67,53,87,2023-10-20
+S003,Liya Tesfaye,Electrical Engineering,20,85.9,,62,77,2023-09-14
+S023,Liya Tesfaye,EE,21,83.9,42,42,74,2023-11-25
+s011,TIGIST TADESSE,EE,21,84.4,76,88,63,2023-11-13
+S018,Henok Mulugeta,information systems,,85.0,76,58,73,2023-11-04
+S027,Sara Assefa,Electrical Engineering,20,79.4,49,70,68,2023-10-15
+S015,Selam Hailu,Electrical Engineering,25,82.7,,72,67,2023-10-02
+S040,Abebe Kebede,Software Engineering,24,87.3,70,67,71,2023-10-06
+S030,Nahom Kebede,information systems,19,79.0,52,61,84,2023-09-17
+S045,mahlet hailu ,CS,-5,84.3,69,65,81,2023-09-15
+S021,HANA TADESSE,computer science,24,89.7,57,64,,2023-11-21
+S033,saron tesfaye,Computer Science,25,97.0,67,76,71,2023-11-25
+S039,Betty Girma,Electrical Engineering,24,75.9,64,N/A,53,2023-09-18
+S060,Abebe Kebede,Soft. Eng,18,90.4,63,70,70,2023-11-06
+S055,Selam Hailu,Electrical Engineering,20,82.7,64,66,85,2023-10-06
+S042,Meron Bekele,information systems,23,,57,57,60,2023-09-24
+S044,Samuel Worku,Soft. Eng,22,93.0%,70,73,56,2023-11-18
+S011,Tigist Tadesse,EE,21,84.4,76,88,63,2023-11-13
+S020,Abebe Kebede,software engineering,20,79.4%,68,71,68,Oct 12 2023
+S022,Meron Bekele,Information Systems,24,87.3,58,75,72,2023-11-17
+S001,hana tadesse,Computer Science,25,87.7,66,58,66,2023-10-08
+S009,  Bethel Girma  , Computer Science,N/A,71.1,73,65,62,2023-11-19
+S057,  Rahel Assefa  ,Comp Sci,18,81.9,52,58,78,2023-10-07
+S004,Samuel Worku,Software Engineering,,80.9,41,39,51,2023-11-05
+S058,Henok Mulugeta,Information Systems,25,83.0,64,66,54,2023-09-04
+S025,  Mahlet Hailu  ,Computer Science,19,71.2,78,83,68,2023-09-26
+S043,Liya Tesfaye,Electrical Engineering,21,78.0,69,69,90,2023-11-05
